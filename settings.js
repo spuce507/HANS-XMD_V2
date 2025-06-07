@@ -1,28 +1,27 @@
-//base by HANSTZ
-//YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
-//GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//base by mauchz
+//YouTube: @maunchz-tch
+//Whatsapp https://wa.me/254796558659
+//GitHub: @Spuce507
+
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "254796558659"
+global.ownername = "MANUCHZ"
 global.ytname = "HANSTZ-TECH"
-global.socialm = "GitHub: Mrhanstz"
-global.location = "AFRICA, TANZANIA, DODOMA"
+global.socialm = "GitHub: Spuce507"
+global.location = "AFRICA, KENYA, NAIROBI"
 global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownername = 'MANUCHZ' //owner name
+global.botname = 'MANUCHZ-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'MANUCHZ-XMD'
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "manuchz BOT"
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = ''
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
